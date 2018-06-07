@@ -5,3 +5,5 @@ test-g *remote conflict*
 test-h option
 
 fetch test
+
+pull test
