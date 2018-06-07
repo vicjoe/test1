@@ -1,0 +1,4 @@
+diff a/test-a.txt b/test-a.txt	(rejected hunks)
+@@ -0 +0 @@
+-test-d *remote*
++test-e *remote pull req*
