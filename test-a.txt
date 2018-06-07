@@ -1,1 +1,1 @@
-test-c *remote*
+test-d *remote*
