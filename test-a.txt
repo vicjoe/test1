@@ -1,1 +1,1 @@
-test-d *remote*
+test-e *remote pull req*
